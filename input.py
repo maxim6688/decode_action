@@ -1,4 +1,3 @@
-#line:46
 import requests #line:47
 import re #line:48
 import random #line:49
